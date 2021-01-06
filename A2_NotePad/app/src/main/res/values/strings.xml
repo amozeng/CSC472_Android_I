@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Multi Notes</string>
+    <string name="jsonFileName">NotesFile.json</string>
+
+    <string name="late_save_time">time</string>
+    <string name="noteTitle">Title</string>
+    <string name="noteContent">note</string>
+    <string name="menuAdd">add</string>
+    <string name="menuInfo">info</string>
+    <string name="menu_save">menu_save</string>
+    <string name="edit_title">editTitle</string>
+    <string name="edit_content">editContent</string>
+    <string name="hint_enterTitle">Enter Title</string>
+    <string name="hint_enterContent">Enter Content</string>
+    <string name="copyright">©2020, Amo Zeng</string>
+    <string name="app_version">Version 1.0</string>
+</resources>
