@@ -8,17 +8,17 @@ Course Link: https://www.cdm.depaul.edu/academics/pages/courseinfo.aspx?CrseId=0
 
 
 ### A1: Distance Converter
-The app allows the user to select either Miles-to-Kilometers or Kilometers-to-Miles conversions
-Demo video: 
+* The app allows the user to select either Miles-to-Kilometers or Kilometers-to-Miles conversions
+* Assignment requirement: https://github.com/amozeng/CSC472_Android_I/blob/main/CSC-472-Assignment1.pdf
 
 ### A2: Note Pad
-This app allows the creation and maintenance of multiple notes.
-Demo video:
+* This app allows the creation and maintenance of multiple notes.
+* Assignment requirement: https://github.com/amozeng/CSC472_Android_I/blob/main/CSC-472-Assignment2.pdf
 
 ### A3: Stock Watch
-This app allows the user to display a sorted list of selected stocks. List entries include the stock symbol, company name, the current price, the daily price change amount and price percent change.
-Demo video:
+* This app allows the user to display a sorted list of selected stocks. List entries include the stock symbol, company name, the current price, the daily price change amount and price percent change.
+* Assignment requirement: https://github.com/amozeng/CSC472_Android_I/blob/main/CSC-472-Assignment3.pdf 
 
 ### A4: Know Your Government
-This app will acquire and display an interactive list of political officials that represent the current location (or a specified location) at each level of government.
-Demo video:
+* This app will acquire and display an interactive list of political officials that represent the current location (or a specified location) at each level of government.
+* Assignment requirement: https://github.com/amozeng/CSC472_Android_I/blob/main/CSC-472-Assignment4.pdf 
