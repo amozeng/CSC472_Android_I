@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Converter</string>
+
+    <string name="button_MtoK">Miles to Kilometers</string>
+    <string name="button_KtoM">Kilometers to Miles</string>
+
+    <string name="button_convert">CONVERT</string>
+    <string name="button_clear">CLEAR</string>
+
+    <string name="text_milesValue">Miles Value:</string>
+    <string name="text_kilometersValue">Kilometers Value:</string>
+
+    <string name="text_conversionHistory">Conversion History: </string>
+    <string name="text_conversion">Conversion</string>
+
+
+
+</resources>
